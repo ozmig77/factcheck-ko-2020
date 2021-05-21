@@ -5,9 +5,13 @@
 
 `pip install -r requirements.txt`
 
-pretrained checkpoints link is given [here](https://drive.google.com/file/d/1JcMYXS0wSxAE3Rm-TMulu6a4nrhllSvT/view?usp=sharing).
+- docs_noun.json link is given [here](https://drive.google.com/file/d/1ZcVVjJ5JBkGXf84dEfURVZlwCEqzsKwc/view?usp=sharing)
 
-save it in `ss/checkpoints` and `rte/checkpoints`.
+  save it unuder `data/`
+
+- pretrained checkpoints link is given [here](https://drive.google.com/file/d/1JcMYXS0wSxAE3Rm-TMulu6a4nrhllSvT/view?usp=sharing).
+
+  save it under `ss/checkpoints/` and `rte/checkpoints/`.
 
 ### Datas
 - `data/claims_korquad.json`: Supporting document for the Factcheck (Based on ko wiki) 
